@@ -506,6 +506,10 @@ export const WORDS = [
   'ŋulke',
   'ŋuxni',
   'ŋuxre',
+  'pèxtu',
+  'pèxto',
+  'tiľok',
+  'pèxku',
 ]
 
 if (CONFIG.normalization) {

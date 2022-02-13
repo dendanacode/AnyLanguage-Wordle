@@ -12,22 +12,22 @@ export const ORTHOGRAPHY = [
   'ì',
   'k',
   'l',
+  'ľ',
   'm',
   'n',
+  'ñ',
+  'ŋ',
   'o',
   'ò',
   'p',
   'r',
+  'ř',
   't',
   'u',
   'ù',
   'w',
   'x',
   'y',
-  'ñ',
-  'ľ',
-  'ŋ',
-  'ř'
 ]
 
 if (CONFIG.normalization) {
