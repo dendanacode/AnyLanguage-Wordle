@@ -7,7 +7,7 @@ import { CONFIG } from './constants/config'
 
 test('renders Not Wordle', () => {
   render(<App />)
-  const linkElement = screen.getByText(/Not Wordle/i)
+  const linkElement = screen.getByText(/Dľòwùke/i)
   expect(linkElement).toBeInTheDocument()
 })
 
